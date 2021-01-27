@@ -32,6 +32,6 @@ classes = ["container", "editor-wrap", "preview-wrap"];
 
 When one of the buttons is clicked to expand or collapse one of the windows, this array will change and therefore the class of each of these divs will change. The rest is handled with CSS styles.
 
-That's just a quick look at some of the code that went into this modest project. If you want to have a peek at the code in full, go to /src/App.js and /src/index.css.
+That's just a quick look at some of the code that went into this modest project. If you want to have a peek at the code in full, go to /src/Markdown.js and /src/Markdown.scss.
 
 Please check out my portfolio at https://www.sunkenworld.com/ if you want to see more of my work. Thanks for reading!
