@@ -1,6 +1,7 @@
 # Markdown Preview
 
 Check it out [here](https://www.sunkenworld.com/markdown-app).
+
 To run it locally: clone the directory, run `npm install` and then `npm run start`.
 
 Inputted text gets updated live in the Preview section through the use of React hooks and the library Marked.
