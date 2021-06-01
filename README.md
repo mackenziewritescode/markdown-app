@@ -1,10 +1,10 @@
 # Markdown Preview
 
+This is an extremely simple app that I wrote early on when learning React. Inputted text gets updated live in the Preview section through the use of React hooks and the library Marked.
+
 Check it out [here](https://www.sunkenworld.com/markdown-app). To run it locally: clone the repository, run `npm install` and then `npm run start`.
 
-Inputted text gets updated live in the Preview section through the use of React hooks and the library Marked.
-
-This is a simple app that uses an input field that saves the inputted text to the state property `inputText` and updates it on change:
+This project uses an input field that saves the inputted text to the state property `inputText` and updates it on change:
 
 ```
 <textarea id="editor" value={inputText} onChange={setText} />
